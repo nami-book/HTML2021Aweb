@@ -6,39 +6,34 @@ header{
     font-family: "Port Lligat Sans", sans-serif;
     
 }
-nav{
-    position: static;
+h1 {
+    color: white;
+    text-align:center;
+}
+nav> ul> h2 {
+    position:inline static;
     border: 1em solid #21a8ade7;
     color: white;
     text-align:center;
     font: "Post No Bills Jaffna SemiBold";
 
-  }
+}
 * {
     text-align:left;
     color: rgb(3, 3, 20);
-  }
-  
-h1 {
-        color: white;
-        text-align:center;
 }
+
 body {
     font-family: "Post No Bills Jaffna SemiBold", sans-serif;
     background-color: rgba(182, 201, 207, 0.829);
-  }
+}
 h3 {
     color: rgb(26, 245, 227);
     text-align:left;
 }
-  
-  
-  
-  p {
+p {
     font-family: verdana;
-    font-size: 20px;
-  }  
+    font-size: 20px; 
 }
 
-    font-family:Port Lligat Sans;
    
