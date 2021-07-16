@@ -19,7 +19,8 @@ nav> ul> h2 {
     
 }
 section{
-    background: img "/Img/h3colorback.png";
+    background-image: url("Img/h3colorback.png");
+    background-color: #3ca4b6ef, #21a8ade7, #21a8ade7, #21a8ade7;
     border:2px solid black;
     background-size: cover;
 
@@ -31,7 +32,6 @@ section >h3>p{
 
 body {
     font-family: "Post No Bills Jaffna SemiBold", sans-serif;
-    background-color: rgba(182, 201, 207, 0.829);
 }
 h3 {
     color: rgb(26, 245, 227);
@@ -41,5 +41,7 @@ p {
     font-family: verdana;
     font-size: 20px; 
 }
-
+footer> div{ 
+    background-image: url("coolHue-79F1A4-0E5CAD.png");
+}
    
