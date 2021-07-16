@@ -16,9 +16,15 @@ nav> ul> h2 {
     color: white;
     text-align:center;
     font: "Post No Bills Jaffna SemiBold";
+    
+}
+section{
+    background: img "/Img/h3colorback.png";
+    border:2px solid black;
+    background-size: cover;
 
 }
-* {
+section >h3>p{
     text-align:left;
     color: rgb(3, 3, 20);
 }
